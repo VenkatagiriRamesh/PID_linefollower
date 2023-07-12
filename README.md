@@ -6,7 +6,7 @@ This line follower built for World Robotics Championship 2018 is built with the 
 
 - QTR-8RV Polulu 8 Array Sensor
 
-L293D Motor Driver
+- L293D Motor Driver
 
 - 3d printed custom chassis (STL Files provided)
 
